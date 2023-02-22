@@ -9956,7 +9956,7 @@ header {
   padding: 0;
   font-size: 34px;
   font-weight: 400;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: var(--primary-color); }
 
 .navbar .navbar-brand span.fa {
