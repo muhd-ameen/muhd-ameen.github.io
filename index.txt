@@ -42,7 +42,7 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
+web design
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
@@ -115,13 +115,13 @@ Art director
 2013 — 2015
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-Web designer
+web designer
 2010 — 2013
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 My skills
 
-Web design
+web design
 80%
 Graphic design
 70%
@@ -137,13 +137,13 @@ WordPress
 Portfolio
 
 All
-Web design
+web design
 Applications
 Web development
 
 Select category
 All
-Web design
+web design
 Applications
 Web development
 
@@ -157,7 +157,7 @@ Web development
 
 alt = fundo
 Fundo
-Web design
+web design
 
 alt = brawlhalla
 Brawlhalla
@@ -165,11 +165,11 @@ Applications
 
 alt = dsm.
 DSM.
-Web design
+web design
 
 alt = metaspark
 MetaSpark
-Web design
+web design
 
 alt = summary
 Summary
